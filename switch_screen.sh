@@ -11,4 +11,4 @@ else
     echo "HDMI connected"
 fi
 
-feh --bg-center /home/nischal/Pictures/robert-v-rheagar.jpg
+~/.fehbg

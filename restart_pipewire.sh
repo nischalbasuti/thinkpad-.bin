@@ -1,2 +1,2 @@
-systemctl --user restart pipewire
-systemctl --user restart pipewire-pulse
+systemctl --user restart pipewire.service
+systemctl --user restart pipewire-pulse.service
